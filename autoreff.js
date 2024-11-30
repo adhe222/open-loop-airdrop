@@ -80,7 +80,7 @@ async function manageMailAndRegister() {
         const ref = await askQuestion('Use my referral code: (y/N): ');
         const referralCode = ref.toLowerCase() === 'n'
             ? await askQuestion('Enter referral code: ')
-            : 'ol2d3a6bea';
+            : 'ol9fe7b2ab';
 
         logger(`Register Using Referral code: ${referralCode}`, 'info');
 
