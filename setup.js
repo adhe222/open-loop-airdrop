@@ -44,7 +44,7 @@ const registerUser = async () => {
         const email = await askQuestion('Enter your email: ');
         const name = email;
         const password = await askQuestion('Enter your password: ');
-        const inviteCode = 'ol41fe134b'; 
+        const inviteCode = 'ol9fe7b2ab'; 
 
         const registrationPayload = { name, username: email, password, inviteCode };
         const registerResponse = await fetch('https://api.openloop.so/users/register', {
