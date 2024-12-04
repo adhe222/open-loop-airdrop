@@ -35,7 +35,7 @@ put your proxy in file `proxy.txt` format `http://username:pass@ip:port`
 
 1. Clone this repository:
    ```bash
-git clone https://github.com/adhe222/open-loop-airdrop.git
+   git clone https://github.com/adhe222/open-loop-airdrop.git
    cd open-loop-airdrop
    ```
 2. Install dependencies:
