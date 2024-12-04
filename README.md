@@ -55,6 +55,8 @@ put your proxy in file `proxy.txt` format `http://username:pass@ip:port`
    npm run autoreff
    ```
 
+source https://github.com/Zlkcyber/openloop
+
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This project is licensed under the [MIT License](LICENSE).
